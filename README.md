@@ -4,6 +4,13 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 
 ---
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPaulWilkinson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPaulWilkinson&show_icons=true&theme=radical)]
+
 ### :hammer_and_wrench: Here are some of the Languages and programmes I use :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -47,12 +54,3 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 <a href="https://www.youtube.com/channel/UCcUpAefxf8SH0y77uJ-M-jw"><img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671898-3cef6105-39e1-411a-b780-7d5d9a86400a.svg" style="padding-right:10px;" /></a>
 
 &nbsp;&nbsp;
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPaulWilkinson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
