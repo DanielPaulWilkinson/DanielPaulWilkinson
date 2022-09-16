@@ -34,7 +34,9 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 ### :bookmark_tabs: Checkout my latest Medium articles
 
 <a width="200" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/0"><img width="500" src="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/0" alt="Recent Article 0"></a>
+
 <a width="200" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/1"><img width="500" width="200" src="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/1" alt="Recent Article 1"></a>
+
 <a width="200" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/2"><img width="500" src="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/2" alt="Recent Article 2"></a>
 
 ---
