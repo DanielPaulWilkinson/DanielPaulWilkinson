@@ -4,14 +4,14 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPaulWilkinson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPaulWilkinson&show_icons=true&theme=radical)]
-
-### :hammer_and_wrench: Here are some of the Languages and programmes I use :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPaulWilkinson&show_icons=true&theme=radical)]
+  
+### :hammer_and_wrench: Here are some of the Languages and programmes I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
@@ -38,6 +38,17 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 <a width="200" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/1"><img width="500" width="200" src="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/1" alt="Recent Article 1"></a>
 
 <a width="200" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/2"><img width="500" src="https://github-readme-medium-recent-article.vercel.app/medium/@dpw-developer/2" alt="Recent Article 2"></a>
+
+---
+
+### Projects:
+
+<a href="https://github.com/DanielPaulWilkinson/development-plan-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/DanielPaulWilkinson/development-plan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ---
 
