@@ -6,7 +6,8 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 
 ### :hammer_and_wrench: Here are some of the Languages and programmes I use :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
@@ -33,12 +34,17 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 
 ### :email: Connect with me:
 
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671863-7d21a85e-6978-482f-87ee-beba62f6a97f.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671869-87a25088-7592-4b98-a8c9-1b49293ca204.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671875-9c181e7f-f486-4cb5-b884-dcfd4895e6d3.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671880-5f8f8968-4d8b-487b-ace3-e20a03bc59b9.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671889-ba7d3c9a-bd94-452d-93db-54520d785620.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671898-3cef6105-39e1-411a-b780-7d5d9a86400a.svg" style="padding-right:10px;" />
+<a href="https://github.com/DanielPaulWilkinson/"><img align="left" alt="github"  width="26px" src="https://user-images.githubusercontent.com/29014077/190671863-7d21a85e-6978-482f-87ee-beba62f6a97f.svg" style="padding-right:10px;" /></a>
+
+<a href="https://www.instagram.com/danielpaulwilkinson"><img align="left" alt="instagram" width="26px" src="https://user-images.githubusercontent.com/29014077/190671869-87a25088-7592-4b98-a8c9-1b49293ca204.svg" style="padding-right:10px;" /></a>
+
+<a href="https://www.linkedin.com/in/daniel-wilkinson/"><img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/29014077/190671875-9c181e7f-f486-4cb5-b884-dcfd4895e6d3.svg" style="padding-right:10px;" /></a>
+
+<a href="https://stackoverflow.com/users/8794904/daniel-wilkinson"><img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671880-5f8f8968-4d8b-487b-ace3-e20a03bc59b9.svg" style="padding-right:10px;" /></a>
+
+<a href="https://twitter.com/dpw_daniel"><img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671889-ba7d3c9a-bd94-452d-93db-54520d785620.svg" style="padding-right:10px;" /></a>
+
+<a href="https://www.youtube.com/channel/UCcUpAefxf8SH0y77uJ-M-jw"><img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/29014077/190671898-3cef6105-39e1-411a-b780-7d5d9a86400a.svg" style="padding-right:10px;" /></a>
 
 &nbsp;&nbsp;
 
