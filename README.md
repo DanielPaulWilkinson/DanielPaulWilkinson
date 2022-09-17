@@ -44,10 +44,10 @@ I'm a Daddy, Husband, Engineer and Coffee Enthusiast :coffee:
 ### Projects:
 
 <a href="https://github.com/DanielPaulWilkinson/development-plan-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielPaulWilkinson&repo=development-plan-api" />
 </a>
 <a href="https://github.com/DanielPaulWilkinson/development-plan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielPaulWilkinson&repo=development-plan" />
 </a>
 
 ---
