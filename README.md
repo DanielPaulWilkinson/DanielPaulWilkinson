@@ -29,8 +29,7 @@
 | --- | --- |
 | [movinghome_bot](https://github.com/DanielPaulWilkinson/movinghome_bot) | Turns property alerts into a daily house-hunting brief with area, cost and map details |
 | [iorn-clad](https://github.com/DanielPaulWilkinson/iorn-clad) | A faith-based app to help men in church communities find groups and build friendships |
-| [coffee-puck](https://github.com/DanielPaulWilkinson/coffee-puck) | Log and track coffee brews, because data and espresso go together |
-| [development-plan](https://github.com/DanielPaulWilkinson/development-plan) | A tool for tracking and growing software engineering skills |
+| [Brew Journal](https://danielpaulwilkinson.github.io/coffee-puck/) | A phone-first coffee brew journal with dial-in hints, offline and on-device ([code](https://github.com/DanielPaulWilkinson/coffee-puck)) |
 
 ### ✍️ Writing
 
